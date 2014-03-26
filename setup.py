@@ -20,9 +20,7 @@ except IOError:
 
 version = '1.0.2'
 
-requirements = [
-    'urllib3',
-]
+requirements = []
 tests_requirements = requirements + [
     'nose',
 ]
